@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="800" height="400" src="https://github.com/sebas-dev-lab/utils/presentation.gif">
+ <img  width="800" height="400" src="https://github.com/sebas-dev-lab/sebas-dev-lab/blob/main/utils/presentation.gif">
 </p>
 
 ### Hi there, I'm [Sebastian!] 👋
