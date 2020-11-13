@@ -18,9 +18,9 @@
 
 Hi, I'm Victor Sebastian Lescano, you can call me Sebastian XD. I'm a passionate full stack web developer from Argentina.
 
-- 🔭 I'm currently working on [HenryApp](https://github.com/sebas-dev-lab/HenryApp) and [Bikes-app](https://github.com/sebas-dev-lab/Bikes-app) proyects.
-- 🌱 I'm learning python in a self-taught way.
-- 👯 I'm looking to belong and work in the team of a technology company where I can develop all my potential, learn new technologies and continue growing as a person and professional.
+- ✔️ I'm currently working on [HenryApp](https://github.com/sebas-dev-lab/HenryApp) and [Bikes-app](https://github.com/sebas-dev-lab/Bikes-app) proyects.
+- ✔️ I'm learning python in a self-taught way.
+- ✔️ I'm looking to belong and work in the team of a technology company where I can develop all my potential, learn new technologies and continue growing as a person and professional.
 - 💬 Ask me about anything
 
 **Languages and Tools:**  
