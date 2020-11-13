@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="800" height="400" src="https://github.com/sebas-dev-lab/utils/la batalla esta en tu mente (1).gif">
+ <img  width="800" height="400" src="https://github.com/sebas-dev-lab/utils/presentation.gif">
 </p>
 
 ### Hi there, I'm [Sebastian!] 👋
