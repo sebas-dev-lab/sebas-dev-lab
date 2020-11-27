@@ -33,7 +33,7 @@ Hi there, I'm Sebastian! 👋
 <br />
 <br />
 
-###BIO
+### BIO
 
 **Hi, I'm Victor Sebastian Lescano, you can call me Sebastian XD. I'm a passionate full stack web developer from Argentina.**
 
