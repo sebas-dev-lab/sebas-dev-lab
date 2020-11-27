@@ -26,8 +26,11 @@ Hi, I'm Victor Sebastian Lescano, you can call me Sebastian XD. I'm a passionate
 **Projects** 
 
 -✔️ E-commerce [Fitness-App](https://github.com/sebas-dev-lab/Ecommerce-FitnessApp) - React/Redux/React-Bootstrap/CSS/NodeJs/Express/PostgreSQL/Sequelize/JWT/Others.
+
 -✔️ Educational platform [HenryApp](https://github.com/sebas-dev-lab/HenryApp) - React/Redux/Material-ui/CSS/NodeJs/Express/MongoDB/Mongoose/Passport/Others.
+
 -✔️ Simple Weather App [Weather App](https://github.com/sebas-dev-lab/Weather-App) - React/React-router-dom/Fetch-API(openweathermap)
+
 -✔️ Simple search for food places [FOOD-PLACE](https://github.com/sebas-dev-lab/FOOD-PLACE) - React/API-Yelp
 
 -✔️ Currently working on [Bikes-app](https://github.com/sebas-dev-lab/Bikes-app) proyect (a practice personal project) - React/Redux/Leaflet/Material-Ui/NodeJs/Express/MongoDB/Mongoose
