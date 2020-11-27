@@ -17,10 +17,22 @@
 
 Hi, I'm Victor Sebastian Lescano, you can call me Sebastian XD. I'm a passionate full stack web developer from Argentina.
 
-- ✔️ I'm currently working on [HenryApp](https://github.com/sebas-dev-lab/HenryApp) and [Bikes-app](https://github.com/sebas-dev-lab/Bikes-app) proyects.
+- ✔️ I'm currently working on [Bikes-app](https://github.com/sebas-dev-lab/Bikes-app) proyect (a practice personal project)
 - ✔️ I'm learning python in a self-taught way.
 - ✔️ I'm looking to belong and work in the team of a technology company where I can develop all my potential, learn new technologies and continue growing as a person and professional.
 - 💬 Ask me about anything
+
+
+**Projects** 
+
+-✔️ E-commerce [Fitness-App](https://github.com/sebas-dev-lab/Ecommerce-FitnessApp) - React/Redux/React-Bootstrap/CSS/NodeJs/Express/PostgreSQL/Sequelize/JWT/Others.
+-✔️ Educational platform [HenryApp](https://github.com/sebas-dev-lab/HenryApp) - React/Redux/Material-ui/CSS/NodeJs/Express/MongoDB/Mongoose/Passport/Others.
+-✔️ Simple Weather App [Weather App](https://github.com/sebas-dev-lab/Weather-App) - React/React-router-dom/Fetch-API(openweathermap)
+-✔️ Simple search for food places [FOOD-PLACE](https://github.com/sebas-dev-lab/FOOD-PLACE) - React/API-Yelp
+
+-✔️ Currently working on [Bikes-app](https://github.com/sebas-dev-lab/Bikes-app) proyect (a practice personal project) - React/Redux/Leaflet/Material-Ui/NodeJs/Express/MongoDB/Mongoose
+
+
 
 **Languages and Tools:**  
 <code><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> </code>
