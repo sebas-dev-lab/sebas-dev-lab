@@ -12,6 +12,7 @@
 
 
 **Languages and Tools:**  
+
 <code><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> </code>
 <code><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>  </code>
@@ -41,15 +42,18 @@ Hi, I'm Victor Sebastian Lescano, you can call me Sebastian XD. I'm a passionate
 
 **Projects** 
 
--✔️ E-commerce [Fitness-App](https://github.com/sebas-dev-lab/Ecommerce-FitnessApp) - React/Redux/React-Bootstrap/CSS/NodeJs/Express/PostgreSQL/Sequelize/JWT/Others.
+✔️ E-commerce [Fitness-App](https://github.com/sebas-dev-lab/Ecommerce-FitnessApp) - React/Redux/React-Bootstrap/CSS/NodeJs/Express/PostgreSQL/Sequelize/JWT/Others.
 
--✔️ Educational platform [HenryApp](https://github.com/sebas-dev-lab/HenryApp) - React/Redux/Material-ui/CSS/NodeJs/Express/MongoDB/Mongoose/Passport/Others.
+✔️ Educational platform [HenryApp](https://github.com/sebas-dev-lab/HenryApp) - React/Redux/Material-ui/CSS/NodeJs/Express/MongoDB/Mongoose/Passport/Others.
 
--✔️ Simple Weather App [Weather App](https://github.com/sebas-dev-lab/Weather-App) - React/React-router-dom/Fetch-API(openweathermap)
+✔️ Simple Weather App [Weather App](https://github.com/sebas-dev-lab/Weather-App) - React/React-router-dom/Fetch-API(openweathermap)
 
--✔️ Simple search for food places [FOOD-PLACE](https://github.com/sebas-dev-lab/FOOD-PLACE) - React/API-Yelp
+✔️ Simple search for food places [FOOD-PLACE](https://github.com/sebas-dev-lab/FOOD-PLACE) - React/API-Yelp
 
--✔️ Currently working on [Bikes-app](https://github.com/sebas-dev-lab/Bikes-app) proyect (a personal project) - React/Redux/Leaflet/Material-Ui/NodeJs/Express/MongoDB/Mongoose
+✔️ Currently working on [Bikes-app](https://github.com/sebas-dev-lab/Bikes-app) proyect (a personal project) - React/Redux/Leaflet/Material-Ui/NodeJs/Express/MongoDB/Mongoose
+
+✔️ Currently working on [My Personal Web Page]
+
 
 
 
