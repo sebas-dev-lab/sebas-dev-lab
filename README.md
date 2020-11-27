@@ -1,8 +1,9 @@
 <p align="center">
  <img  width="100%" height="400" src="https://github.com/sebas-dev-lab/sebas-dev-lab/blob/main/utils/presentation.gif">
 </p>
-
+<p align="center">
 ### Hi there, I'm Sebastian! 👋
+</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/vslescano"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/vsLescano"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -12,7 +13,7 @@
 
 
 **Languages and Tools:**  
-
+<p align="center">
 <code><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> </code>
 <code><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>  </code>
@@ -27,7 +28,7 @@
 <code><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/> </code>
 <code><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /></code>
-
+</p>
 
 <br />
 <br />
