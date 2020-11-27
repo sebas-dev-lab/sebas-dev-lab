@@ -50,9 +50,11 @@ Hi, I'm Victor Sebastian Lescano, you can call me Sebastian XD. I'm a passionate
 
 ✔️ Simple search for food places [FOOD-PLACE](https://github.com/sebas-dev-lab/FOOD-PLACE) - React/API-Yelp
 
-✔️ Currently working on [Bikes-app](https://github.com/sebas-dev-lab/Bikes-app) proyect (a personal project) - React/Redux/Leaflet/Material-Ui/NodeJs/Express/MongoDB/Mongoose
+**Currently Working on:** 
 
-✔️ Currently working on [My Personal Web Page]
+:bike: [Bikes-app](https://github.com/sebas-dev-lab/Bikes-app) proyect (a personal project) - React/Redux/Leaflet/Material-Ui/NodeJs/Express/MongoDB/Mongoose
+
+:hammer: [My Personal Web Page]
 
 
 
