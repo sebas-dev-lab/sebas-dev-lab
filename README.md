@@ -33,6 +33,10 @@ Hi there, I'm Sebastian! 👋
 <br />
 <br />
 
+<p align="center">
+I am a junior full stack developer, passionated about design and develpment of web applications seeking to improve my skills learning new technologies growing professionally as web developer being part of a team that sets challenging and innovative goals
+</p>
+
 Hi, I'm Victor Sebastian Lescano, you can call me Sebastian XD. I'm a passionate full stack web developer from Argentina.
 
 - ✔️ I'm currently working on [Bikes-app](https://github.com/sebas-dev-lab/Bikes-app) proyect (a practice personal project)
