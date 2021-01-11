@@ -59,9 +59,7 @@ Hi there, I'm Sebastian! 👋
 **Currently Working on:** 
 
 
-:bike: [Bikes-app](https://github.com/sebas-dev-lab/Bikes-app) proyect (a personal project) - React/Redux/Leaflet/Material-Ui/NodeJs/Express/MongoDB/Mongoose
 
-:hammer: [My Personal Web Page](https://github.com/sebas-dev-lab/wf)
 
 
 
