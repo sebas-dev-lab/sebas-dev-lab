@@ -40,13 +40,13 @@ Hi there, I'm Sebastian! 👋
 **I am a full stack developer, passionated about design and develpment of web applications seeking to improve my skills learning new technologies growing professionally as web developer being part of a team that sets challenging and innovative goals**
 
 
-- ✔️ I'm currently working on [Bikes-app](https://github.com/sebas-dev-lab/Bikes-app) proyect (a personal project)
-- ✔️ I'm learning python in a self-taught way.
-- ✔️ I'm looking to belong and work in the team of a technology company where I can develop all my potential, learn new technologies and continue growing as a person and professional.
+- ✔️ I currently work at the Center for Molecular Studies of Resistencia, Chaco - Argentina as a laboratory technician (biotechnology) and Python programmer (Data Scientist)
+- ✔️ In my free time I work on my personal project (A Full stack Javascript project)
+- ✔️ I actively seek to find a development space as a full stack developer or data scientist. I love giving solutions through digital tools.
 - 💬 Ask me about anything
 
 
-**Projects** :rocket:
+**Some Projects** :rocket:
 
 :credit_card: E-commerce [Fitness-App](https://github.com/sebas-dev-lab/Ecommerce-FitnessApp) - React/Redux/React-Bootstrap/CSS/NodeJs/Express/PostgreSQL/Sequelize/JWT/Others.
 
@@ -55,8 +55,6 @@ Hi there, I'm Sebastian! 👋
 :satellite: Simple Weather App [Weather App](https://github.com/sebas-dev-lab/Weather-App) - React/React-router-dom/Fetch-API(openweathermap)
 
 :hamburger: Simple search for food places [FOOD-PLACE](https://github.com/sebas-dev-lab/FOOD-PLACE) - React/API-Yelp
-
-**Currently Working on:** 
 
 
 
