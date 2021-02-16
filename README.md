@@ -41,7 +41,7 @@ Hi there, I'm Sebastian! 👋
 
 
 - ✔️ I currently work at the Center for Molecular Studies of Resistencia, Chaco - Argentina as a laboratory technician (biotechnology) and Python programmer (Data Scientist)
-- ✔️ In my free time I work on my personal project (A Full stack Javascript project)
+- ✔️ In my free time I work on my personal project (A Full stack Javascript project) - [Sport_CRM_App](https://github.com/sebas-dev-lab/sport_crm_app) 
 - ✔️ I actively seek to find a development space as a full stack developer or data scientist. I love giving solutions through digital tools.
 - 💬 Ask me about what you want
 
