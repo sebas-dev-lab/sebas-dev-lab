@@ -41,7 +41,7 @@ Hi there, I'm Sebastian! 👋
 
 
 - ✔️ In my free time I work on my personal project (A Full stack Javascript project) - [Sport_CRM_App](https://github.com/sebas-dev-lab/sport_crm_app) - [Portfolio_App](https://github.com/sebas-dev-lab/wf)
-- ✔️ I actively seek to find a development space as a full stack developer or data scientist. I love giving solutions through digital tools.
+- ✔️ I actively seek to find a development space as a full stack developer I love giving solutions through digital tools.
 - 💬 Ask me about what you want
 
 
