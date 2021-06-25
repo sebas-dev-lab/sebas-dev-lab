@@ -40,8 +40,7 @@ Hi there, I'm Sebastian! 👋
 **I am a full stack developer, passionated about design and develpment of web applications seeking to improve my skills learning new technologies growing professionally as web developer being part of a team that sets challenging and innovative goals**
 
 
-- ✔️ In my free time I work on my personal project (A Full stack Javascript project) - [Sport_CRM_App](https://github.com/sebas-dev-lab/sport_crm_app) - [Portfolio_App](https://github.com/sebas-dev-lab/wf)
-- ✔️ I actively seek to find a development space as a full stack developer I love giving solutions through digital tools.
+- ✔️ I work in Comercia Latam as Full Stack Developer.
 - 💬 Ask me about what you want
 
 
