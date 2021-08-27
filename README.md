@@ -40,7 +40,7 @@ Hi there, I'm Sebastian! 👋
 **I am a full stack developer, passionated about design and develpment of web applications seeking to improve my skills learning new technologies growing professionally as web developer being part of a team that sets challenging and innovative goals**
 
 
-- ✔️ I work in Comercia Latam as VU Security as Developer.
+- ✔️ I work in VU Security as Developer.
 - 💬 Ask me about what you want
 
 
