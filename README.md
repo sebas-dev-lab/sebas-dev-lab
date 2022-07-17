@@ -40,19 +40,7 @@ Hi there, I'm Sebastian! 👋
 **I am a full stack developer, passionated about design and develpment of web applications seeking to improve my skills learning new technologies growing professionally as web developer being part of a team that sets challenging and innovative goals**
 
 
-- ✔️ I work in Crombie as Developer.
-- 💬 Ask me about what you want
 
-
-**Some Projects** :rocket:
-
-:credit_card: E-commerce [Fitness-App](https://github.com/sebas-dev-lab/Ecommerce-FitnessApp) - React/Redux/React-Bootstrap/CSS/NodeJs/Express/PostgreSQL/Sequelize/JWT/Others.
-
-:pencil2: Educational platform [HenryApp](https://github.com/sebas-dev-lab/HenryApp) - React/Redux/Material-ui/CSS/NodeJs/Express/MongoDB/Mongoose/Passport/Others.
-
-:satellite: Simple Weather App [Weather App](https://github.com/sebas-dev-lab/Weather-App) - React/React-router-dom/Fetch-API(openweathermap)
-
-:hamburger: Simple search for food places [FOOD-PLACE](https://github.com/sebas-dev-lab/FOOD-PLACE) - React/API-Yelp
 
 
 
